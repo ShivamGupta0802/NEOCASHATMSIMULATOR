@@ -1,5 +1,3 @@
-Here is an **ALL-IN-ONE README** — short, clean, and complete enough for GitHub or college submission:
-
 ---
 
 # **NeoCash ATM System**
@@ -60,5 +58,3 @@ NeoCash ATM System is a Java-based desktop application that simulates basic ATM 
 Free to use for learning and personal projects.
 
 ---
-
-If you want **screenshots**, **badges**, or a **project description section**, I can add those as well!
